@@ -1,1 +1,4 @@
-# exerc-cios-l-gica-de-programa-o
+# exercicios-logica-de-programação
+
+
+este repositório contém arquivos dos exercicos de Js de lógica de programação
